@@ -1,0 +1,24 @@
+1) Reference
+
+1a) Stunning Pure CSS Parallax Scrolling | 5 Minutes Tutorial
+
+- Video: https://www.youtube.com/watch?v=ln5BWnYMSQA
+- Article: https://redstapler.co/css-parallax-scrolling-effect/
+
+1b) Pure CSS Snow Effect with Falling Animation
+
+- Article: https://redstapler.co/pure-css-snow-fall-effect/
+
+2) Parallax Effect
+
+- visual effect where objects in foreground and background scroll at different speeds
+
+3) Implementation
+
+3a) JavaScript
+
+- listen closely to the scroll event and then translate all the elements accordingly
+
+3b) CSS
+
+- do translation in CSS
